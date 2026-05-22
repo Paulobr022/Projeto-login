@@ -132,7 +132,7 @@ form>a.botao {
     color: #2c6462;
     border: 1px #49a09d solid;
     border-radius: 5px;
-    padding-top: 7px;
+    padding-top: 0px;
     margin-top: 5px;
 
     text-decoration: none;
@@ -144,4 +144,13 @@ form>a.botao:hover {
 
 form>a.botao>i {
     font-size: 0, 8em;
+    
+}
+
+
+form>a.botao>i {
+    font-size: 0.9em;
+    text-align: center;
+    margin-top: 10px;
+    
 }
